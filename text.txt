@@ -1,1 +1,2 @@
 "git helps to sync the code"
+"github is a online platform"
